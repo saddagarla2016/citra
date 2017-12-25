@@ -27,7 +27,6 @@ If you want to contribute please take a look at the [Contributor's Guide](CONTRI
 * __Linux__: [Linux Build](https://github.com/citra-emu/citra/wiki/Building-For-Linux)
 * __macOS__: [macOS Build](https://github.com/citra-emu/citra/wiki/Building-for-macOS)
 
-
 ### Support
 We happily accept monetary donations or donated games and hardware. Please see our [donations page](https://citra-emu.org/donate/) for more information on how you can contribute to Citra. Any donations received will go towards things like:
 * 3DS consoles for developers to explore the hardware
